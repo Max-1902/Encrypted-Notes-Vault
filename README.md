@@ -267,5 +267,3 @@ GitHub: github.com/Max-1902
 - SQLite development team
 - NIST cryptographic standards documentation
 ```
-
-
